@@ -1,0 +1,4 @@
+langchain
+requests
+python-dotenv
+langchain-groq
